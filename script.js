@@ -10,7 +10,9 @@ function love() {
    result.innerHTML = "Te iubeste enorm de mult";
  } else if (input === "dana obreja") {
    result.innerHTML = "Te iubeste enorm de mult";
- }
+ } else if (input === "gabi") {
+   result.innerHTML = "Te pup la portofel";
+   }
  else {
   result.innerHTML =
    "Nu te iubeste te drq de coarda";
