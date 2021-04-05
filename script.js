@@ -16,5 +16,4 @@ function love() {
   } else {
     result.innerHTML = "Nu te iubeste te drq de coarda";
   }
-  console.log(input);
 }
