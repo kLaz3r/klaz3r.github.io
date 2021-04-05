@@ -25,7 +25,8 @@ body {
   background-color: purple;
   color: white;
 }
-#prompt, #result {
+#prompt,
+#result {
   color: #eabfff;
 }
 #result {
