@@ -11,6 +11,8 @@ function love() {
     result.innerHTML = "Te iubeste enorm de mult";
   } else if (input === "gabi") {
     result.innerHTML = "Te pup la portofel";
+  } else if (input === "Gabi") {
+    result.innerHTML = "Te pup la portofellelelel";
   } else {
     result.innerHTML = "Nu te iubeste te drq de coarda";
   }
